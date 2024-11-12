@@ -14,7 +14,7 @@ class Command(BaseCommand):
 
     def handle(self, **options):
 
-        print("..::PROCESO INICIAL DE PERMISOS Y GRUPOS POR PERICODERS::..")
+        print("..::PROCESO INICIAL DE PERMISOS Y GRUPOS POR COPICODERS::..")
 
         print("Lista de permisos disponibles: ", end="")
 
